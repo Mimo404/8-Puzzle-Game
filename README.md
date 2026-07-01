@@ -1,4 +1,10 @@
-<img width="1354" height="720" alt="videoframe_42604" src="https://github.com/user-attachments/assets/09f9abfe-90d0-4b3b-a05f-0980017f7ed1" />
+
+
+https://github.com/user-attachments/assets/b6c9a91c-c71c-4a94-b393-00d31a5fc69c
+
+
+
+
 # 8-Puzzle Game Solver using A* Search
 
 This project is an implementation of the classic 8-Puzzle Game using the A* (A-Star) Search algorithm in Python. It includes a graphical user interface built with Tkinter that allows users to interact with the puzzle manually or watch the algorithm solve it automatically.
